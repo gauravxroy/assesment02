@@ -1,0 +1,162 @@
+{
+  "user": "gaurav",
+  "platform": "youtube",
+ 
+  "history": [
+    {
+      "date": "2024-01-01",
+      "event": "Password Reset",
+      "user": "user123",
+      "status": "success",
+      "details": "Password reset successfully"
+    },
+    {
+      "date": "2024-02-01",
+      "event": "Payment Withdrawal",
+      "user": "user456",
+      "status": "success",
+      "amount": 200,
+      "currency": "USD",
+      "details": "User withdrew $200"
+    },
+    {
+      "date": "2024-02-15",
+      "event": "Password Reset",
+      "user": "user789",
+      "status": "failure",
+      "details": "Failed password reset due to incorrect email"
+    },
+    {
+      "date": "2024-03-10",
+      "event": "Payment Withdrawal",
+      "user": "user123",
+      "status": "success",
+      "amount": 150,
+      "currency": "USD",
+      "details": "User withdrew $150"
+    },
+    {
+      "date": "2024-04-01",
+      "event": "Password Reset",
+      "user": "user456",
+      "status": "success",
+      "details": "Password reset successfully"
+    },
+    {
+      "date": "2024-05-01",
+      "event": "Payment Withdrawal",
+      "user": "user789",
+      "status": "success",
+      "amount": 100,
+      "currency": "USD",
+      "details": "User withdrew $100"
+    }
+  ],
+  "chartData": [
+    {
+      "month": "January",
+      "likes": 120,
+      "comments": 25,
+      "shares": 15,
+      "views": 500
+    },
+    {
+      "month": "February",
+      "likes": 150,
+      "comments": 35,
+      "shares": 20,
+      "views": 600
+    },
+    {
+      "month": "March",
+      "likes": 180,
+      "comments": 40,
+      "shares": 25,
+      "views": 750
+    },
+    {
+      "month": "April",
+      "likes": 200,
+      "comments": 50,
+      "shares": 30,
+      "views": 900
+    },
+    {
+      "month": "May",
+      "likes": 220,
+      "comments": 60,
+      "shares": 40,
+      "views": 1000
+    }
+  ],
+  "platformEngagement": [
+    {
+      "platform": "Facebook",
+      "likes": 150,
+      "comments": 40,
+      "shares": 25,
+      "views": 300
+    },
+    {
+      "platform": "Twitter",
+      "likes": 120,
+      "comments": 30,
+      "shares": 15,
+      "views": 200
+    },
+    {
+      "platform": "Instagram",
+      "likes": 200,
+      "comments": 50,
+      "shares": 35,
+      "views": 500
+    },
+    {
+      "platform": "LinkedIn",
+      "likes": 100,
+      "comments": 20,
+      "shares": 10,
+      "views": 150
+    }
+  ],
+  "activeUsers": [
+    {
+      "date": "2024-01-01",
+      "activeUsers": 50
+    },
+    {
+      "date": "2024-02-01",
+      "activeUsers": 75
+    },
+    {
+      "date": "2024-03-01",
+      "activeUsers": 100
+    },
+    {
+      "date": "2024-04-01",
+      "activeUsers": 150
+    },
+    {
+      "date": "2024-05-01",
+      "activeUsers": 200
+    }
+  ],
+  "userDemographics": [
+    {
+      "ageRange": "18-24",
+      "percentage": 40
+    },
+    {
+      "ageRange": "25-34",
+      "percentage": 30
+    },
+    {
+      "ageRange": "35-44",
+      "percentage": 20
+    },
+    {
+      "ageRange": "45+",
+      "percentage": 10
+    }
+  ]
+}
