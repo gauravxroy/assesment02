@@ -27,7 +27,7 @@ Table of Contents
 ---
 
 1. Fork the Repository
-
+**repo is on master branch**
 To contribute or use this repository, first fork it:
 
 Go to the repository page on GitHub.
